@@ -1,4 +1,4 @@
-# CRUDAYA - Simple CRUD API
+# CRUDAYA - Simple CRUD API - To do list 
 
 A simple, scalable, and well-structured CRUD (Create, Read, Update, Delete) API built with [NestJS](https://nestjs.com/) and [Prisma](https://www.prisma.io/). This project provides a basic foundation for managing "entries" with a title and description.
 
