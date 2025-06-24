@@ -46,7 +46,7 @@ crudaya/
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://your-repo-url.com/crudaya.git
+    git clone https://github.com/kmarfadi/Nestjs-Crud.git
     cd crudaya
     ```
 
